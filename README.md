@@ -219,7 +219,7 @@ This project solves these problems by:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Uday Sagar Uppara**
 ServiceNow Developer (Fresher)
@@ -227,7 +227,7 @@ Specializing in ITSM, Flow Designer & SLA Management
 
 ---
 
-## ⭐ Final Note
+## Final Note
 
 This project demonstrates a **real-world enterprise use case** combining:
 
@@ -236,6 +236,6 @@ This project demonstrates a **real-world enterprise use case** combining:
 * SLA tracking
 * Analytics dashboards
 
-👉 Designed to showcase practical ServiceNow development skills.
+ Designed to showcase practical ServiceNow development skills.
 
 ---
