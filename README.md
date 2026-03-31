@@ -110,15 +110,7 @@ This project solves these problems by:
 *  SLA Trend (Bar Chart)
 *  Breached SLAs (Filtered List)
 
-#### Filters Applied:
 
-```text
-SLA definition = Asset Allocation SLA
-Task table = sc_req_item
-Has breached = true
-```
-
----
 
 ##  Screenshots
 
@@ -128,11 +120,11 @@ Has breached = true
 
 ### SLA Definition
 
-![SLA](screenshots/sla.png)
+![SLA](SLA.png)
 
 ### RITM with SLA
 
-![RITM](screenshots/ritm.png)
+![RITM](ritm.png)
 
 ### Dashboard
 
