@@ -136,7 +136,7 @@ Has breached = true
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
