@@ -124,7 +124,7 @@ Has breached = true
 
 ###  Flow Designer
 
-![Flow](Asset Auto Allocation.png)
+![Flow](AssetAutoAllocation.png)
 
 ### SLA Definition
 
